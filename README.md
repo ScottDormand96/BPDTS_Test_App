@@ -27,11 +27,11 @@ A test application to find solution to: Using the language of your choice please
 - Run All Tests (Ctrl + R, A)
 - Test Results:
 
-![alt text](https://github.com/ScottDormand96/BPDTS_Test_App/blob/master/CodeCoverage.png)
+![alt text](https://github.com/ScottDormand96/BPDTS_Test_App/blob/master/TestResults.png)
 
 - Code Coveraage:
 
-![alt text](https://github.com/ScottDormand96/BPDTS_Test_App/blob/master/TestResults.png)
+![alt text](https://github.com/ScottDormand96/BPDTS_Test_App/blob/master/CodeCoverage.png)
 
 # License
 Licensed under MIT license - located in LICENSE.md file
